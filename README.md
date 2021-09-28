@@ -51,3 +51,9 @@ Below example shows cutting a part from "00:01:01" to "00:02:02" of [Big Buck Bu
 Puppeteer - Core [Pupperteer at NPM](https://www.npmjs.com/package/puppeteer)  
 FFMPEG [FFmpeg at NPM](https://www.npmjs.com/package/ffmpeg)  
 Fluent ffmpeg [Fluent ffmpeg at NPM](https://www.npmjs.com/package/fluent-ffmpeg/v/1.7.0)
+
+## File description
+index.js - Handle Http requests and file download  
+timediff.js - Gives duration of video in seconds  
+writer.js - Convert and write the result video file using FFmpeg  
+pupout.js - Gets the video download link from youtube
