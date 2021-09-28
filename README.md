@@ -41,7 +41,7 @@ You can customize page time out time at pupout.js to change time allocated for s
 ```bash
 await page.setDefaultNavigationTimeout(40000); 
 ```
-5. Example
+6. Example
 
 Below example shows cutting a part from "00:01:01" to "00:02:02" of [Big Buck Bunny](https://www.youtube.com/watch?v=YE7VzlLtp-4)
 
